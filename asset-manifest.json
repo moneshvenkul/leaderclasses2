@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/leaderclasses2/static/css/main.2365c2d6.chunk.css",
+    "main.js": "/leaderclasses2/static/js/main.40cc2ff3.chunk.js",
+    "main.js.map": "/leaderclasses2/static/js/main.40cc2ff3.chunk.js.map",
+    "runtime-main.js": "/leaderclasses2/static/js/runtime-main.5407a69b.js",
+    "runtime-main.js.map": "/leaderclasses2/static/js/runtime-main.5407a69b.js.map",
+    "static/js/2.9815d9ff.chunk.js": "/leaderclasses2/static/js/2.9815d9ff.chunk.js",
+    "static/js/2.9815d9ff.chunk.js.map": "/leaderclasses2/static/js/2.9815d9ff.chunk.js.map",
+    "index.html": "/leaderclasses2/index.html",
+    "precache-manifest.233a9eccd8e5969a9638f06e09715b74.js": "/leaderclasses2/precache-manifest.233a9eccd8e5969a9638f06e09715b74.js",
+    "service-worker.js": "/leaderclasses2/service-worker.js",
+    "static/css/main.2365c2d6.chunk.css.map": "/leaderclasses2/static/css/main.2365c2d6.chunk.css.map",
+    "static/js/2.9815d9ff.chunk.js.LICENSE.txt": "/leaderclasses2/static/js/2.9815d9ff.chunk.js.LICENSE.txt",
+    "static/js/main.40cc2ff3.chunk.js.LICENSE.txt": "/leaderclasses2/static/js/main.40cc2ff3.chunk.js.LICENSE.txt",
+    "static/media/2.jpg": "/leaderclasses2/static/media/2.987a805e.jpg",
+    "static/media/3.jpg": "/leaderclasses2/static/media/3.ab188a59.jpg",
+    "static/media/4.jpg": "/leaderclasses2/static/media/4.e9fe38e8.jpg",
+    "static/media/5.jpg": "/leaderclasses2/static/media/5.15fe24ba.jpg",
+    "static/media/font-awesome.min.css": "/leaderclasses2/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/ill-2.svg": "/leaderclasses2/static/media/ill-2.594b1ee1.svg",
+    "static/media/nucleo.css": "/leaderclasses2/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/team-1-800x800.jpg": "/leaderclasses2/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/leaderclasses2/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/leaderclasses2/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/leaderclasses2/static/media/team-4-800x800.23007132.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5407a69b.js",
+    "static/js/2.9815d9ff.chunk.js",
+    "static/css/main.2365c2d6.chunk.css",
+    "static/js/main.40cc2ff3.chunk.js"
+  ]
+}
